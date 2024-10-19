@@ -1,0 +1,26 @@
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\bin\Debug\net8.0\QuadEqMauiMVVMapp.deps.json
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\bin\Debug\net8.0\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\bin\Debug\net8.0\QuadEqMauiMVVMapp.pdb
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.AssemblyInfo.cs
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\XamlC.stamp
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\refint\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.pdb
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\ref\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\bin\Debug\net8.0\QuadEqMauiMVVMapp.deps.json
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\bin\Debug\net8.0\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\bin\Debug\net8.0\QuadEqMauiMVVMapp.pdb
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.AssemblyInfo.cs
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\XamlC.stamp
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\refint\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\QuadEqMauiMVVMapp.pdb
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0\ref\QuadEqMauiMVVMapp.dll

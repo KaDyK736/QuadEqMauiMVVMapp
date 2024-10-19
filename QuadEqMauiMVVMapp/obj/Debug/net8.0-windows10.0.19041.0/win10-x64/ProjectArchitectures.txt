@@ -1,0 +1,1 @@
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp.csproj;x64

@@ -1,0 +1,40 @@
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\bin\Debug\net8.0-ios\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\bin\Debug\net8.0-ios\QuadEqMauiMVVMapp.pdb
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\actool\_PartialAppManifest.items
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\actool\_BundleResourceWithLogicalName.items
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\actool\_ProcessedImageAssetsPath.items
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\coremlc\_PartialAppManifest.items
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\_ProcessedBundleResourcesPath.items
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\_ProcessedContentPath.items
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.AssemblyInfo.cs
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\XamlC.stamp
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\refint\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.pdb
+C:\Users\danil\source\repos\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\ref\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\bin\Debug\net8.0-ios\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\bin\Debug\net8.0-ios\QuadEqMauiMVVMapp.pdb
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\actool\_PartialAppManifest.items
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\actool\_BundleResourceWithLogicalName.items
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\actool\_ProcessedImageAssetsPath.items
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\coremlc\_PartialAppManifest.items
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\_ProcessedBundleResourcesPath.items
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\_ProcessedContentPath.items
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.AssemblyInfo.cs
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\XamlC.stamp
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\refint\QuadEqMauiMVVMapp.dll
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\QuadEqMauiMVVMapp.pdb
+C:\Users\danil\source\repos\Net\Новая папка\QuadEqMauiMVVMapp\QuadEqMauiMVVMapp\obj\Debug\net8.0-ios\ref\QuadEqMauiMVVMapp.dll

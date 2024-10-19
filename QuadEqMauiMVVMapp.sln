@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadEqMauiMVVMapp", "QuadEqMauiMVVMapp\QuadEqMauiMVVMapp.csproj", "{E8504CA2-00E6-46CC-A3DE-0AB837C7F0E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadEqAppTests", "QuadEqAppTests\QuadEqAppTests.csproj", "{C26CE9F0-4A63-4076-9A14-5957468FAD8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8504CA2-00E6-46CC-A3DE-0AB837C7F0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8504CA2-00E6-46CC-A3DE-0AB837C7F0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8504CA2-00E6-46CC-A3DE-0AB837C7F0E8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E8504CA2-00E6-46CC-A3DE-0AB837C7F0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8504CA2-00E6-46CC-A3DE-0AB837C7F0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8504CA2-00E6-46CC-A3DE-0AB837C7F0E8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C26CE9F0-4A63-4076-9A14-5957468FAD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26CE9F0-4A63-4076-9A14-5957468FAD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26CE9F0-4A63-4076-9A14-5957468FAD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26CE9F0-4A63-4076-9A14-5957468FAD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38E52F86-42F0-4D1A-B034-C8E75F915A24}
+	EndGlobalSection
+EndGlobal

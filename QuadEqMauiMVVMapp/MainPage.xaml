@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+ xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+ xmlns:local="clr-namespace:QuadEqMauiMVVMapp"
+ x:Class="QuadEqMauiMVVMapp.MainPage">
+    <StackLayout Orientation="Vertical" Spacing="10" Padding="15">
+        <Label FontSize="20" TextColor="Black">Решение квадратного
+ уравнения
+        </Label>
+        <Label FontSize="20" TextColor="Black">Коэффициенты:</Label>
+        <Label FontSize="20" TextColor="Black">A</Label>
+        <Entry FontSize="20" TextColor="Black" x:Name ="A" Text=
+ "{Binding A}"/>
+        <Label FontSize="20" TextColor="Black">B</Label>
+        <Entry FontSize="20" TextColor="Black" x:Name ="B" Text=
+ "{Binding B}"/>
+        <Label FontSize="20" TextColor="Black">C</Label>
+        <Entry FontSize="20" TextColor="Black" x:Name ="C" Text=
+ "{Binding C}"/>
+        <Label FontSize="20" TextColor="Black" x:Name="X1" Text=
+ "{Binding X1}"/>
+        <Label FontSize="20" TextColor="Black" x:Name="X2" Text=
+ "{Binding X2}"/>
+        <Button FontSize="20" TextColor="White" Margin="10"
+ x:Name="btnSolve" Text="Решить" Command="{Binding
+ SolveCommand}"/>
+    </StackLayout>
+</ContentPage>
